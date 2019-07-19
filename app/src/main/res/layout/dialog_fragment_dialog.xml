@@ -1,0 +1,8 @@
+<Switch xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/switchDialog"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="25dp"
+    android:text="Activar/Desactivar Alertas">
+
+</Switch>
